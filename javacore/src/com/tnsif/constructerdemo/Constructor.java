@@ -22,6 +22,3 @@ public class Constructor {
 		System.out.println(c);
 	}
 }
-		
-		
-
